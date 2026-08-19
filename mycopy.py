@@ -70,7 +70,7 @@ def print_banner():
 {Colors.CYAN}╔══════════════════════════════════════════════════════════════════╗
     🔥 RUIJIE EXTREME SCANNER - PROJECT X                
     ⚡ 6,7,8,9 Digit | 6,7,8 Lower | Mixed 6,7,8 (a-z+0-9)        
-    👤 Devloper @Arrowdemon 2006                   
+    👤 Devloper Mycopy                   
 
 ╚══════════════════════════════════════════════════════════════════╝{Colors.END}
     """)
